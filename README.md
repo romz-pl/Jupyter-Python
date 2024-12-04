@@ -14,4 +14,6 @@ Contains a Jupyter notebooks that implements interesting programs in Python.
 
 
 ## Schedule as a cumulative bar chart
+![Stacked a](./01-schedule/output/stacked_a.png)a
+![Stacked b](./01-schedule/output/stacked_b.png)
 
