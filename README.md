@@ -9,5 +9,5 @@ Contains a Jupyter notebooks that implements interesting programs in Python.
 
 ## Schedule as a cumulative bar chart
 ![Schedule a](./01-schedule/output/schedule_a.png)
-
+![Schedule b](./01-schedule/output/schedule_b.png)
 
