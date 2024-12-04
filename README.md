@@ -7,4 +7,7 @@ Contains a Jupyter notebooks that implements interesting programs in Python.
 ![Periods chart](./00-gantt-chart/output/periods.png)
 
 
+## Schedule as a cumulative bar chart
+![Schedule a](./01-schedule/output/schedule_a.png)
+
 
