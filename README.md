@@ -8,6 +8,8 @@ Contains a Jupyter notebooks that implements interesting programs in Python.
 
 
 ## Schedule as a cumulative bar chart
-![Schedule a](./01-schedule/output/hours_a.png)
-![Schedule b](./01-schedule/output/hours_b.png)
+![Hours a](./01-schedule/output/hours_a.png)
+![Tasks a](./01-schedule/output/tasks_a.png)
+![Hours b](./01-schedule/output/hours_b.png)
+![Tasks b](./01-schedule/output/tasks_b.png)
 
