@@ -16,6 +16,12 @@ Contains a Jupyter notebooks that implements interesting programs in Python.
 
 
 ## Schedule as a cumulative bar chart
-![Stacked a](./01-schedule/output/stacked_a.png)a
+![Stacked a](./01-schedule/output/stacked_a.png)
 ![Stacked b](./01-schedule/output/stacked_b.png)
+
+
+## Presentation of task boundaries
+![Bound p2.e](./02-task-bound/output/p2.e.png)
+![Bound p2.m](./02-task-bound/output/p2.m.png)
+![Bound p2.f](./02-task-bound/output/p2.f.png)
 
