@@ -1,0 +1,263 @@
+{
+  "tasks": [
+    {
+      "Name": "p2.e",
+      "Start day": "2024-11-21",
+      "End day": "2024-12-04",
+      "Work": 10
+    },
+    {
+      "Name": "p2.m",
+      "Start day": "2024-12-05",
+      "End day": "2025-04-02",
+      "Work": 170
+    },
+    {
+      "Name": "p2.f",
+      "Start day": "2025-04-03",
+      "End day": "2025-04-30",
+      "Work": 60
+    },
+    {
+      "Name": "p3.e",
+      "Start day": "2024-12-01",
+      "End day": "2024-12-13",
+      "Work": 4
+    },
+    {
+      "Name": "p3.m",
+      "Start day": "2024-12-14",
+      "End day": "2025-05-30",
+      "Work": 112
+    },
+    {
+      "Name": "p3.f",
+      "Start day": "2025-05-31",
+      "End day": "2025-06-27",
+      "Work": 24
+    },
+    {
+      "Name": "p4.e",
+      "Start day": "2024-12-16",
+      "End day": "2025-01-03",
+      "Work": 15
+    },
+    {
+      "Name": "p4.m",
+      "Start day": "2025-01-04",
+      "End day": "2025-06-20",
+      "Work": 240
+    },
+    {
+      "Name": "p4.f",
+      "Start day": "2025-06-21",
+      "End day": "2025-07-18",
+      "Work": 40
+    },
+    {
+      "Name": "p5.e",
+      "Start day": "2024-12-31",
+      "End day": "2025-01-13",
+      "Work": 16
+    },
+    {
+      "Name": "p5.m",
+      "Start day": "2025-01-14",
+      "End day": "2025-05-12",
+      "Work": 102
+    },
+    {
+      "Name": "p5.f",
+      "Start day": "2025-05-13",
+      "End day": "2025-06-09",
+      "Work": 40
+    },
+    {
+      "Name": "p6.e",
+      "Start day": "2025-01-20",
+      "End day": "2025-02-14",
+      "Work": 20
+    },
+    {
+      "Name": "p6.m",
+      "Start day": "2025-02-15",
+      "End day": "2025-08-01",
+      "Work": 122
+    },
+    {
+      "Name": "p6.f",
+      "Start day": "2025-08-02",
+      "End day": "2025-08-29",
+      "Work": 24
+    }
+  ],
+  "invoicing periods": [
+    {
+      "Name": "24.Dec",
+      "Start day": "2024-11-12",
+      "End day": "2024-12-10"
+    },
+    {
+      "Name": "25.Jan",
+      "Start day": "2024-12-11",
+      "End day": "2025-01-15"
+    },
+    {
+      "Name": "25.Feb",
+      "Start day": "2025-01-16",
+      "End day": "2025-02-13"
+    },
+    {
+      "Name": "25.Mar",
+      "Start day": "2025-02-14",
+      "End day": "2025-03-16"
+    },
+    {
+      "Name": "25.Apr",
+      "Start day": "2025-03-17",
+      "End day": "2025-04-14"
+    },
+    {
+      "Name": "25.May",
+      "Start day": "2025-04-15",
+      "End day": "2025-05-18"
+    },
+    {
+      "Name": "25.Jun",
+      "Start day": "2025-05-19",
+      "End day": "2025-06-18"
+    },
+    {
+      "Name": "25.Jul",
+      "Start day": "2025-06-19",
+      "End day": "2025-07-17"
+    },
+    {
+      "Name": "25.Aug",
+      "Start day": "2025-07-18",
+      "End day": "2025-08-17"
+    }
+  ],
+  "task bounds": [
+    {
+      "Name": "p2.e",
+      "Start day": "2024-11-21",
+      "End day": "2024-12-04"
+    },
+    {
+      "Name": "p2.m",
+      "Start day": "2024-12-05",
+      "End day": "2025-04-02"
+    },
+    {
+      "Name": "p2.f",
+      "Start day": "2025-04-03",
+      "End day": "2025-04-30"
+    },
+    {
+      "Name": "p3.e",
+      "Start day": "2024-12-01",
+      "End day": "2024-12-13"
+    },
+    {
+      "Name": "p3.m",
+      "Start day": "2024-12-14",
+      "End day": "2025-05-30"
+    },
+    {
+      "Name": "p3.f",
+      "Start day": "2025-06-02",
+      "End day": "2025-06-06"
+    },
+    {
+      "Name": "p3.f",
+      "Start day": "2025-06-09",
+      "End day": "2025-06-13"
+    },
+    {
+      "Name": "p3.f",
+      "Start day": "2025-06-16",
+      "End day": "2025-06-20"
+    },
+    {
+      "Name": "p3.f",
+      "Start day": "2025-06-23",
+      "End day": "2025-06-27"
+    },
+    {
+      "Name": "p4.e",
+      "Start day": "2024-12-16",
+      "End day": "2025-01-03"
+    },
+    {
+      "Name": "p4.m",
+      "Start day": "2025-01-04",
+      "End day": "2025-03-04"
+    },
+    {
+      "Name": "p4.m",
+      "Start day": "2025-03-05",
+      "End day": "2025-05-01"
+    },
+    {
+      "Name": "p4.m",
+      "Start day": "2025-05-02",
+      "End day": "2025-06-20"
+    },
+    {
+      "Name": "p4.f",
+      "Start day": "2025-06-21",
+      "End day": "2025-07-18"
+    },
+    {
+      "Name": "p5.e",
+      "Start day": "2024-12-31",
+      "End day": "2025-01-13"
+    },
+    {
+      "Name": "p5.m",
+      "Start day": "2025-01-14",
+      "End day": "2025-05-12"
+    },
+    {
+      "Name": "p5.f",
+      "Start day": "2025-05-13",
+      "End day": "2025-06-09"
+    },
+    {
+      "Name": "p6.e",
+      "Start day": "2025-01-20",
+      "End day": "2025-02-14"
+    },
+    {
+      "Name": "p6.m",
+      "Start day": "2025-02-15",
+      "End day": "2025-03-01"
+    },
+    {
+      "Name": "p6.m",
+      "Start day": "2025-03-02",
+      "End day": "2025-08-01"
+    },
+    {
+      "Name": "p6.f",
+      "Start day": "2025-08-04",
+      "End day": "2025-08-08"
+    },
+    {
+      "Name": "p6.f",
+      "Start day": "2025-08-11",
+      "End day": "2025-08-15"
+    },
+    {
+      "Name": "p6.f",
+      "Start day": "2025-08-18",
+      "End day": "2025-08-22"
+    },
+    {
+      "Name": "p6.f",
+      "Start day": "2025-08-25",
+      "End day": "2025-08-29"
+    }
+  ]
+}
