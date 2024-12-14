@@ -4,6 +4,7 @@ Contains a Jupyter notebooks that implements interesting programs in Python.
 ## Random walk with bounds
 
 ![Random walk](./04-matplotlib/output/random_walk.png)
+![GridSpec](./04-matplotlib/output/gridspec.png)
 
 
 ## Gantt charts
