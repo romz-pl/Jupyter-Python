@@ -2,8 +2,9 @@
 Contains a Jupyter notebooks that implements interesting programs in Python.
 
 ## Random walk with bounds
-
 ![Random walk](./04-matplotlib/output/random_walk.png)
+
+## Irregular plot grids with GridSpec
 ![GridSpec](./04-matplotlib/output/gridspec.png)
 
 
