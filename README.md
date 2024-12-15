@@ -1,6 +1,9 @@
 # Jupyter-Python
 Contains a Jupyter notebooks that implements interesting programs in Python.
 
+## Scatter plot in gray scale
+![Scatter plot](./05-matplotlib-ext/output/scatter_plot.png)
+
 ## Random walk with bounds
 ![Random walk](./04-matplotlib/output/random_walk.png)
 
