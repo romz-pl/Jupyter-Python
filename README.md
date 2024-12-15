@@ -1,6 +1,9 @@
 # Jupyter-Python
 Contains a Jupyter notebooks that implements interesting programs in Python.
 
+## Population
+![Contour Plot](./05-matplotlib-ext/output/population.png)
+
 ## Overlapping histograms
 ![Contour Plot](./05-matplotlib-ext/output/overapling_histograms.png)
 
