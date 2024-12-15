@@ -1,7 +1,7 @@
 # Jupyter-Python
 Contains a Jupyter notebooks that implements interesting programs in Python.
 
-# Plot with annotations
+## Plot with annotations
 ![Handwritten digits](./05-matplotlib-ext/output/holidays.png)
 
 ## Handwritten digits
