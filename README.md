@@ -1,6 +1,9 @@
 # Jupyter-Python
 Contains a Jupyter notebooks that implements interesting programs in Python.
 
+## Overlapping histograms
+![Contour Plot](./05-matplotlib-ext/output/overapling_histograms.png)
+
 ## Density plot
 ![Contour Plot](./05-matplotlib-ext/output/density_plot.png)
 
