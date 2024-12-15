@@ -1,6 +1,9 @@
 # Jupyter-Python
 Contains a Jupyter notebooks that implements interesting programs in Python.
 
+## Contour Plot
+![Contour Plot](./05-matplotlib-ext/output/contour_plot.png)
+
 ## Scatter plot in gray scale
 ![Scatter plot](./05-matplotlib-ext/output/scatter_plot.png)
 
