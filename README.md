@@ -1,6 +1,9 @@
 # Jupyter-Python
 Contains a Jupyter notebooks that implements interesting programs in Python.
 
+## Handwritten digits
+![Handwritten digits](./05-matplotlib-ext/output/handwritten_digits.png)
+
 ## Population
 ![Contour Plot](./05-matplotlib-ext/output/population.png)
 
