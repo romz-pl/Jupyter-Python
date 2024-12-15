@@ -1,11 +1,14 @@
 # Jupyter-Python
 Contains a Jupyter notebooks that implements interesting programs in Python.
 
+## Fancy Tick Formats
+![Fancy Tick Formats](./05-matplotlib-ext/output/tick.png)
+
 ## Plot with annotations
-![Handwritten digits](./05-matplotlib-ext/output/annotations.png)
+![Plot with annotations](./05-matplotlib-ext/output/annotations.png)
 
 ## Plot with texts
-![Handwritten digits](./05-matplotlib-ext/output/holidays.png)
+![Plot with texts](./05-matplotlib-ext/output/holidays.png)
 
 ## Handwritten digits
 ![Handwritten digits](./05-matplotlib-ext/output/handwritten_digits.png)
