@@ -1,6 +1,9 @@
 # Jupyter-Python
 Contains a Jupyter notebooks that implements interesting programs in Python.
 
+## Simple Linear Regression
+![Simple Linear Regression](./06-Scikit-Learn/output/LinearRegression.png)
+
 ## Fancy Tick Formats
 ![Fancy Tick Formats](./05-matplotlib-ext/output/tick.png)
 
