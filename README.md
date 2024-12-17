@@ -1,6 +1,9 @@
 # Jupyter-Python
 Contains a Jupyter notebooks that implements interesting programs in Python.
 
+## Gaussian naive Bayes
+![Simple Linear Regression](./06-Scikit-Learn/output/GaussianNB.png)
+
 ## Simple Linear Regression
 ![Simple Linear Regression](./06-Scikit-Learn/output/LinearRegression.png)
 
